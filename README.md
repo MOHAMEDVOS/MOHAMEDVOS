@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Mohamed Ibrahim</h1>
+<h1 align="center">Hey there, I'm Mohamed Ibrahim</h1>
 
 <p align="center">
   <strong>AI Enthusiast & Builder</strong> · Turning ideas into real products with AI
@@ -10,17 +10,17 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
-- 🤖 I build real products with AI tools. I'm not a traditional developer — I vibe code and focus on shipping.
-- 🚀 Created **[VOS Tool](https://github.com/MOHAMEDVOS/vos-tool)**, a voice call audit platform that RES-VA uses in production today.
-- 💻 Built **[IT-Check (VOS Scanner)](https://github.com/MOHAMEDVOS/IT-check)**, a desktop app RES-VA uses to test agent PCs.
-- 💡 My focus is AI/ML, NLP, and actually getting ideas out the door.
-- 📍 Based in Egypt
+- I build software using AI tools to accelerate development. I focus on creating practical, working products.
+- Created **[VOS Tool](https://github.com/MOHAMEDVOS/vos-tool)**, a voice call audit platform that RES-VA uses in production today.
+- Built **[IT-Check (VOS Scanner)](https://github.com/MOHAMEDVOS/IT-check)**, a desktop app RES-VA uses to test agent PCs.
+- My focus is AI/ML, NLP, and solving real problems through code.
+- Based in Egypt
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -37,12 +37,12 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🎙️ VOS Tool</h3>
+      <h3 align="center">VOS Tool</h3>
       <p align="center">
         <a href="https://github.com/MOHAMEDVOS/vos-tool">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
@@ -53,7 +53,7 @@
       <p><strong>Stack:</strong> Python · FastAPI · Streamlit · Docker · PostgreSQL · AssemblyAI</p>
     </td>
     <td width="50%">
-      <h3 align="center">💻 IT-Check (VOS Scanner)</h3>
+      <h3 align="center">IT-Check (VOS Scanner)</h3>
       <p align="center">
         <a href="https://github.com/MOHAMEDVOS/IT-check">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
@@ -66,7 +66,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">💒 Wedding Invitation</h3>
+      <h3 align="center">Wedding Invitation</h3>
       <p align="center">
         <a href="https://github.com/MOHAMEDVOS/wedding-website">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
@@ -76,7 +76,7 @@
       <p><strong>Stack:</strong> HTML · CSS · JavaScript</p>
     </td>
     <td width="50%">
-      <h3 align="center">📊 RES-VA Call Audit</h3>
+      <h3 align="center">RES-VA Call Audit</h3>
       <p align="center">
         <a href="https://github.com/MOHAMEDVOS/Audit-ditector-main">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
@@ -91,7 +91,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MOHAMEDVOS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
