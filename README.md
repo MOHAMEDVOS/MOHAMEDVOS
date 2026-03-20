@@ -12,11 +12,11 @@
 
 ### About Me
 
-- I build software using AI tools to accelerate development. I focus on creating practical, working products.
-- Created **[VOS Tool](https://github.com/MOHAMEDVOS/vos-tool)**, a voice call audit platform that RES-VA uses in production today.
-- Built **[IT-Check (VOS Scanner)](https://github.com/MOHAMEDVOS/IT-check)**, a desktop app RES-VA uses to test agent PCs.
-- My focus is AI/ML, NLP, and solving real problems through code.
-- Based in Egypt
+- I build software with AI tools. I focus on shipping code that solves real problems.
+- Created **[VOS Tool](https://github.com/MOHAMEDVOS/vos-tool)**: A voice call audit platform. RES-VA uses it in production today.
+- Built **[IT-Check (VOS Scanner)](https://github.com/MOHAMEDVOS/IT-check)**: A Windows app that audits agent connections to prevent call delays. It replaces manual AnyDesk checks. RES-VA currently uses it.
+- My focus is AI/ML, NLP, and practical development.
+- Based in Egypt.
 
 ---
 
@@ -59,7 +59,7 @@
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
       </p>
-      <p>A Windows app that checks call center agents' PCs for VOIP readiness. It tests hardware, mic levels, ping, and internet speed, then sends the data directly to an admin dashboard.</p>
+      <p>A Windows app that audits agent connection stability to prevent call delays. It automates hardware and network tests, replacing manual remote checks like AnyDesk.</p>
       <p>🏢 <strong>In production at RES-VA</strong></p>
       <p><strong>Stack:</strong> Python · CustomTkinter · Flask</p>
     </td>
