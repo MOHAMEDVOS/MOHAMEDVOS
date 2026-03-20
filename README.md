@@ -82,7 +82,7 @@
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
       </p>
-      <p>My first app. A simple Streamlit dashboard for RES-VA that analyzes call logs and flags problem calls.</p>
+      <p>My first app. A simple Streamlit dashboard that analyzes CSV call logs to flag problem calls and measure campaign reachability.</p>
       <p>🏢 <strong>Used by RES-VA</strong></p>
       <p><strong>Stack:</strong> Python · Streamlit · Pandas</p>
     </td>
