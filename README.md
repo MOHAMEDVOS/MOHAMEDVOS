@@ -13,7 +13,7 @@
 ### 🧑‍💻 About Me
 
 - 🤖 I'm an **AI enthusiast** who builds real products using AI-assisted development
-- 🚀 Built **[VOS Tool](https://github.com/MOHAMEDVOS/vos-tool)** — an AI-powered call center audit platform, **now in production** at **RES-VA**
+- 🚀 Built **[VOS Tool](https://github.com/MOHAMEDVOS/vos-tool)** — an AI-powered **voice call** audit platform, **now in production** at **RES-VA**
 - 💻 Created **[IT-Check (VOS Scanner)](https://github.com/MOHAMEDVOS/IT-check)** — a desktop IT health diagnostic tool, also deployed at **RES-VA**
 - 💡 Passionate about **AI/ML**, **NLP**, and turning ideas into working software
 - 📍 Based in Egypt
@@ -48,7 +48,7 @@
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
       </p>
-      <p>AI-powered <strong>Voice Observation System</strong> for call center audits. Automated transcription, rebuttal detection with NLP, speaker diarization, and comprehensive audit dashboards.</p>
+      <p>AI-powered <strong>Voice Observation System</strong> for auditing spoken phone calls. Features automated audio transcription, rebuttal detection with NLP, speaker diarization, and comprehensive audit dashboards.</p>
       <p>🏢 <strong>In production at RES-VA</strong></p>
       <p><strong>Stack:</strong> Python · FastAPI · Streamlit · Docker · PostgreSQL · AssemblyAI</p>
     </td>
