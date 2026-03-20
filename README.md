@@ -76,9 +76,15 @@
       <p><strong>Stack:</strong> HTML · CSS · JavaScript</p>
     </td>
     <td width="50%">
-      <h3 align="center">🔮 More Coming Soon</h3>
-      <p align="center">Always building, always learning.</p>
-      <p>I'm constantly exploring new technologies and working on projects that solve real-world problems. Stay tuned!</p>
+      <h3 align="center">📊 RES-VA Call Audit</h3>
+      <p align="center">
+        <a href="https://github.com/MOHAMEDVOS/Audit-ditector-main">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
+        </a>
+      </p>
+      <p>My first major project: a Streamlit dashboard built for RES-VA to analyze call logs, flag problematic calls automatically, and analyze campaign reachability.</p>
+      <p>🏢 <strong>Used by RES-VA</strong></p>
+      <p><strong>Stack:</strong> Python · Streamlit · Pandas</p>
     </td>
   </tr>
 </table>
