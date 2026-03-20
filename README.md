@@ -13,8 +13,8 @@
 ### 🧑‍💻 About Me
 
 - 🤖 I'm an **AI enthusiast** who builds real products using AI-assisted development
-- 🚀 Built **[VOS Tool](https://github.com/MOHAMEDVOS/vos-tool)** — an AI-powered call center QA platform, **now in production** at **RES-VA**
-- 🌐 Created the **[VOS Landing Page](https://vos-landing.vercel.app)** — also deployed and used by **RES-VA**
+- 🚀 Built **[VOS Tool](https://github.com/MOHAMEDVOS/vos-tool)** — an AI-powered call center audit platform, **now in production** at **RES-VA**
+- 💻 Created **[IT-Check (VOS Scanner)](https://github.com/MOHAMEDVOS/IT-check)** — a desktop IT health diagnostic tool, also deployed at **RES-VA**
 - 💡 Passionate about **AI/ML**, **NLP**, and turning ideas into working software
 - 📍 Based in Egypt
 
@@ -48,23 +48,20 @@
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
       </p>
-      <p>AI-powered <strong>Voice Observation System</strong> for call center quality assurance. Automated transcription, rebuttal detection with NLP, speaker diarization, and comprehensive audit dashboards.</p>
+      <p>AI-powered <strong>Voice Observation System</strong> for call center audits. Automated transcription, rebuttal detection with NLP, speaker diarization, and comprehensive audit dashboards.</p>
       <p>🏢 <strong>In production at RES-VA</strong></p>
       <p><strong>Stack:</strong> Python · FastAPI · Streamlit · Docker · PostgreSQL · AssemblyAI</p>
     </td>
     <td width="50%">
-      <h3 align="center">🌐 VOS Landing Page</h3>
+      <h3 align="center">💻 IT-Check (VOS Scanner)</h3>
       <p align="center">
         <a href="https://github.com/MOHAMEDVOS/IT-check">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
-        <a href="https://vos-landing.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo">
-        </a>
       </p>
-      <p>Modern, responsive landing page for the VOS desktop application with smooth animations, feature showcase, and download integration.</p>
-      <p>🏢 <strong>Deployed & used by RES-VA</strong></p>
-      <p><strong>Stack:</strong> React · TypeScript · Vite · TailwindCSS</p>
+      <p>Windows desktop tool that runs comprehensive health diagnostics on call center agents' PCs (hardware, mic levels, ping tests, internet speed) and silently posts results to a centralized admin dashboard.</p>
+      <p>🏢 <strong>In production at RES-VA</strong></p>
+      <p><strong>Stack:</strong> Python · CustomTkinter · Flask</p>
     </td>
   </tr>
   <tr>
