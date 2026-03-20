@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Mohamed Ibrahim</h1>
 
 <p align="center">
-  <strong>Software Developer</strong> · Building tools that make work smarter
+  <strong>AI Enthusiast & Builder</strong> · Turning ideas into real products with AI
 </p>
 
 <p align="center">
@@ -12,9 +12,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I'm currently building **[VOS Tool](https://github.com/MOHAMEDVOS/vos-tool)** — an AI-powered call center quality assurance platform
-- 🌐 I develop full-stack web applications with **Python**, **React**, and **Docker**
-- 🤖 Passionate about **AI/ML**, **NLP**, and audio analytics
+- 🤖 I'm an **AI enthusiast** who builds real products using AI-assisted development
+- 🚀 Built **[VOS Tool](https://github.com/MOHAMEDVOS/vos-tool)** — an AI-powered call center QA platform, **now in production** at **RES-VA**
+- 🌐 Created the **[VOS Landing Page](https://vos-landing.vercel.app)** — also deployed and used by **RES-VA**
+- 💡 Passionate about **AI/ML**, **NLP**, and turning ideas into working software
 - 📍 Based in Egypt
 
 ---
@@ -48,6 +49,7 @@
         </a>
       </p>
       <p>AI-powered <strong>Voice Observation System</strong> for call center quality assurance. Automated transcription, rebuttal detection with NLP, speaker diarization, and comprehensive audit dashboards.</p>
+      <p>🏢 <strong>In production at RES-VA</strong></p>
       <p><strong>Stack:</strong> Python · FastAPI · Streamlit · Docker · PostgreSQL · AssemblyAI</p>
     </td>
     <td width="50%">
@@ -61,6 +63,7 @@
         </a>
       </p>
       <p>Modern, responsive landing page for the VOS desktop application with smooth animations, feature showcase, and download integration.</p>
+      <p>🏢 <strong>Deployed & used by RES-VA</strong></p>
       <p><strong>Stack:</strong> React · TypeScript · Vite · TailwindCSS</p>
     </td>
   </tr>
