@@ -12,10 +12,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🤖 I'm an **AI enthusiast** who builds real products using AI-assisted development
-- 🚀 Built **[VOS Tool](https://github.com/MOHAMEDVOS/vos-tool)** — an AI-powered **voice call** audit platform, **now in production** at **RES-VA**
-- 💻 Created **[IT-Check (VOS Scanner)](https://github.com/MOHAMEDVOS/IT-check)** — a desktop IT health diagnostic tool, also deployed at **RES-VA**
-- 💡 Passionate about **AI/ML**, **NLP**, and turning ideas into working software
+- 🤖 I build real products with AI tools. I'm not a traditional developer — I vibe code and focus on shipping.
+- 🚀 Created **[VOS Tool](https://github.com/MOHAMEDVOS/vos-tool)**, a voice call audit platform that RES-VA uses in production today.
+- 💻 Built **[IT-Check (VOS Scanner)](https://github.com/MOHAMEDVOS/IT-check)**, a desktop app RES-VA uses to test agent PCs.
+- 💡 My focus is AI/ML, NLP, and actually getting ideas out the door.
 - 📍 Based in Egypt
 
 ---
@@ -48,7 +48,7 @@
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
       </p>
-      <p>AI-powered <strong>Voice Observation System</strong> for auditing spoken phone calls. Features automated audio transcription, rebuttal detection with NLP, speaker diarization, and comprehensive audit dashboards.</p>
+      <p>An AI system that audits spoken phone calls. It transcripts audio, detects rebuttals using NLP, separates speakers, and shows the results on a dashboard.</p>
       <p>🏢 <strong>In production at RES-VA</strong></p>
       <p><strong>Stack:</strong> Python · FastAPI · Streamlit · Docker · PostgreSQL · AssemblyAI</p>
     </td>
@@ -59,7 +59,7 @@
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
       </p>
-      <p>Windows desktop tool that runs comprehensive health diagnostics on call center agents' PCs (hardware, mic levels, ping tests, internet speed) and silently posts results to a centralized admin dashboard.</p>
+      <p>A Windows app that checks call center agents' PCs for VOIP readiness. It tests hardware, mic levels, ping, and internet speed, then sends the data directly to an admin dashboard.</p>
       <p>🏢 <strong>In production at RES-VA</strong></p>
       <p><strong>Stack:</strong> Python · CustomTkinter · Flask</p>
     </td>
@@ -72,7 +72,7 @@
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
       </p>
-      <p>Elegant bilingual (English/Arabic) digital wedding invitation with animated envelope opening, photo gallery, love story timeline, countdown timer, and RSVP integration.</p>
+      <p>A digital wedding invite in English and Arabic. It has an animated envelope, a photo gallery, a timeline, a countdown, and RSVP tracking.</p>
       <p><strong>Stack:</strong> HTML · CSS · JavaScript</p>
     </td>
     <td width="50%">
@@ -82,7 +82,7 @@
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
       </p>
-      <p>My first major project: a Streamlit dashboard built for RES-VA to analyze call logs, flag problematic calls automatically, and analyze campaign reachability.</p>
+      <p>My first major project. A Streamlit dashboard for RES-VA that analyzes call logs, flags problem calls, and scores campaign reachability.</p>
       <p>🏢 <strong>Used by RES-VA</strong></p>
       <p><strong>Stack:</strong> Python · Streamlit · Pandas</p>
     </td>
