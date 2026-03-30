@@ -13,9 +13,8 @@
 ### About Me
 
 - I build software with AI tools. I focus on shipping code that solves real problems.
-- Created **[VOS Tool](https://github.com/MOHAMEDVOS/vos-tool)**: A voice call audit platform. RES-VA uses it in production today.
-- Built **[IT-Check (VOS Scanner)](https://github.com/MOHAMEDVOS/IT-check)**: A Windows app that audits agent connections to prevent call delays. It replaces manual AnyDesk checks. RES-VA currently uses it.
-- My focus is AI/ML, NLP, and practical development.
+- Created **[VOS Tool](https://github.com/MOHAMEDVOS/vos-tool)**: A ai  audit platform that  audit cold calls in realstate industry and  agent  preformance . RES-VA uses it in production today.
+- Built **[IT-Check (VOS Scanner)](https://github.com/MOHAMEDVOS/IT-check)**: A Windows app that audits agent connections to prevent call drops and mantain quality. It replaces manual AnyDesk checks. RES-VA currently uses it.
 - Based in Egypt.
 
 ---
