@@ -13,9 +13,9 @@
 ### About Me
 
 - I build software with AI tools. I focus on shipping code that solves real problems.
-- Created **[VOS Tool](https://github.com/MOHAMEDVOS/vos-tool)**: An AI-powered call center QA platform. Transcribes calls, detects sales rebuttals using a 3-layer system (2,000+ phrases → semantic matching → LLM), and tracks agent performance. Processes 1,000 calls at $2–3 vs $15–20 with naive approaches. In production at RES-VA.
+- Created **[VOS Tool](https://github.com/MOHAMEDVOS/vos-tool)**: An AI-powered call center Audit platform. relasing or late response on home owners Transcribes calls, detects sales rebuttals using a 3-layer system (2,000+ phrases → semantic matching → LLM), and tracks agent performance. In production at RES-VA.
 - Built **[IT-Check (VOS Scanner)](https://github.com/MOHAMEDVOS/IT-check)**: A Windows app that audits agent connections to prevent call drops and maintain quality. It replaces manual AnyDesk checks. RES-VA currently uses it.
-- My focus is AI/ML, NLP, and practical development.
+
 - Based in Egypt.
 
 ---
