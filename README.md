@@ -13,8 +13,9 @@
 ### About Me
 
 - I build software with AI tools. I focus on shipping code that solves real problems.
-- Created **[VOS Tool](https://github.com/MOHAMEDVOS/vos-tool)**: A ai  audit platform that  audit cold calls in realstate industry and  agent  preformance . RES-VA uses it in production today.
-- Built **[IT-Check (VOS Scanner)](https://github.com/MOHAMEDVOS/IT-check)**: A Windows app that audits agent connections to prevent call drops and mantain quality. It replaces manual AnyDesk checks. RES-VA currently uses it.
+- Created **[VOS Tool](https://github.com/MOHAMEDVOS/vos-tool)**: An AI-powered call center QA platform. Transcribes calls, detects sales rebuttals using a 3-layer system (2,000+ phrases → semantic matching → LLM), and tracks agent performance. Processes 1,000 calls at $2–3 vs $15–20 with naive approaches. In production at RES-VA.
+- Built **[IT-Check (VOS Scanner)](https://github.com/MOHAMEDVOS/IT-check)**: A Windows app that audits agent connections to prevent call drops and maintain quality. It replaces manual AnyDesk checks. RES-VA currently uses it.
+- My focus is AI/ML, NLP, and practical development.
 - Based in Egypt.
 
 ---
@@ -47,9 +48,9 @@
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
       </p>
-      <p>An AI system that audits spoken phone calls. It transcripts audio, detects rebuttals using NLP, separates speakers, and shows the results on a dashboard.</p>
+      <p>AI-powered call center QA automation for Egyptian real estate sales calls. Transcribes audio with AssemblyAI, then runs a 3-layer rebuttal detection system: exact match (2,000+ phrases) → semantic similarity → Groq LLM fallback (20 strategies). 80% of calls resolve in Layer 1/2. Costs $2–3 per 1,000 calls.</p>
       <p>🏢 <strong>In production at RES-VA</strong></p>
-      <p><strong>Stack:</strong> Python · FastAPI · Streamlit · Docker · PostgreSQL · AssemblyAI</p>
+      <p><strong>Stack:</strong> Python · FastAPI · Streamlit · Docker · PostgreSQL · AssemblyAI · Groq</p>
     </td>
     <td width="50%">
       <h3 align="center">IT-Check (VOS Scanner)</h3>
