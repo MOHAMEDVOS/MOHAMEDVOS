@@ -13,7 +13,7 @@
 ### About Me
 
 - I build software with AI tools. I focus on shipping code that solves real problems.
-- Created **[VOS Tool](https://github.com/MOHAMEDVOS/vos-tool)**: An AI-powered call center audit platform. Detects re-leasing, late responses to homeowners, and transcribes calls using a 3-layer system (2,000+ phrases → semantic matching → LLM). In production at RES-VA.
+- Created **[VOS Tool](https://vos-tool.up.railway.app/)**: An AI-powered call center audit platform. Detects re-leasing, late responses to homeowners, and transcribes calls using a 3-layer system (2,000+ phrases → semantic matching → LLM). In production at RES-VA.
 - Built **[Texting Audit Automation](https://github.com/MOHAMEDVOS/TEXTING-AUDIT-AUTOMATION)**: An advanced SMS/Texting audit pipeline. Uses Playwright for scraping and a 3-tier ML pre-filter (Phrase Match → kNN → Classifier) to handle 80% of conversations locally, drastically reducing Groq API costs. Tracks 4 lead pillars and enforces rebuttal compliance for 39+ agents.
 - Built **[IT-Check (VOS Scanner)](https://github.com/MOHAMEDVOS/IT-check)**: A Windows app that audits agent connections to prevent call drops and maintain quality. It replaces manual AnyDesk checks. RES-VA currently uses it.
 
@@ -43,7 +43,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">VOS Tool</h3>
+      <h3 align="center"><a href="https://vos-tool.up.railway.app/">VOS Tool</a></h3>
       <p align="center">
         <a href="https://github.com/MOHAMEDVOS/vos-tool">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
