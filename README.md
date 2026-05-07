@@ -13,12 +13,8 @@
 ### About Me
 
 - I build software with AI tools. I focus on shipping code that solves real problems.
-<<<<<<< HEAD
-- Created **[VOS Tool](https://github.com/MOHAMEDVOS/vos-tool)**: An AI-powered call center Audit platform.detects Relasing , late response on home owners and Transcribes calls, detects sales rebuttals using a 3-layer system (2,000+ phrases → semantic matching → LLM), and tracks agent performance. In production at RES-VA.
-=======
-- Created **[VOS Tool](https://github.com/MOHAMEDVOS/vos-tool)**: An AI-powered call center QA platform. Transcribes calls, detects sales rebuttals using a 3-layer system (2,000+ phrases → semantic matching → LLM), and tracks agent performance. Processes 1,000 calls at $2–3 vs $15–20 with naive approaches. In production at RES-VA.
+- Created **[VOS Tool](https://github.com/MOHAMEDVOS/vos-tool)**: An AI-powered call center audit platform. Detects re-leasing, late responses to homeowners, and transcribes calls using a 3-layer system (2,000+ phrases → semantic matching → LLM). In production at RES-VA.
 - Built **[Texting Audit Automation](https://github.com/MOHAMEDVOS/TEXTING-AUDIT-AUTOMATION)**: An advanced SMS/Texting audit pipeline. Uses Playwright for scraping and a 3-tier ML pre-filter (Phrase Match → kNN → Classifier) to handle 80% of conversations locally, drastically reducing Groq API costs. Tracks 4 lead pillars and enforces rebuttal compliance for 39+ agents.
->>>>>>> 65801b3 (Update profile with Texting Audit Automation project)
 - Built **[IT-Check (VOS Scanner)](https://github.com/MOHAMEDVOS/IT-check)**: A Windows app that audits agent connections to prevent call drops and maintain quality. It replaces manual AnyDesk checks. RES-VA currently uses it.
 
 - Based in Egypt.
