@@ -13,7 +13,7 @@
 ### About Me
 
 - I build software with AI tools — cutting costs, saving hours, and solving problems that actually matter.
-- Created **[VOS Tool](https://vos-tool.up.railway.app/)**: An AI-powered call center audit platform. Detects re-leasing, late responses to homeowners, and transcribes calls using a 3-layer system (2,000+ phrases → semantic matching → LLM). In production at RES-VA.
+- Created **[VOS Tool](https://vos-tool.up.railway.app/)**: An AI-powered call center platform. Transcribes and scores calls using a 3-layer system (2,000+ phrases → semantic matching → LLM). Provisions 200 agents across 7 dialers in under 1 minute. Automates agent scoring via ML — eliminating hours of manual work. In production at RES-VA.
 - Built **[Texting Audit Automation](https://github.com/MOHAMEDVOS/TEXTING-AUDIT-AUTOMATION)**: An AI-powered SMS audit platform. Automates conversation scraping and utilizes a 3-tier ML system to evaluate lead quality, detect compliance issues, and optimize communication standards.
 - Built **[IT-Check (VOS Scanner)](https://vos-landing.vercel.app/)**: A Windows app that audits agent connections to prevent call drops and maintain quality. It replaces manual AnyDesk checks. RES-VA currently uses it.
 
@@ -50,7 +50,9 @@
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
       </p>
-      <p>AI-powered call center QA automation for Egyptian real estate sales calls. Transcribes audio with AssemblyAI, then runs a 3-layer rebuttal detection system: exact match (2,000+ phrases) → semantic similarity → Groq Llama 3.3 70B fallback. 80% of calls resolve in Layer 1/2.</p>
+      <p>AI-powered call center platform for Egyptian real estate. Transcribes calls with AssemblyAI and scores them via a 3-layer system (2,000+ phrases → semantic matching → Groq LLM). 80% of calls resolve in Layer 1/2.</p>
+      <p>⚡ <strong>Bulk user creation:</strong> provisions up to 200 agents across 7 ReadyMode dialers simultaneously in under 1 minute — a process that takes 1–2 hours manually.</p>
+      <p>📊 <strong>AI Scoring:</strong> one-click call sampling across all 7 dialers, ML-powered agent scoring, auto-appends results to the team's Google Sheet — eliminating manual call-by-call review.</p>
       <p>🏢 <strong>In production at RES-VA</strong></p>
       <p><strong>Stack:</strong> React · TypeScript · FastAPI · Python · PostgreSQL · Docker · AssemblyAI · Groq</p>
     </td>
