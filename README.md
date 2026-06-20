@@ -30,9 +30,10 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq">
+  <img src="https://img.shields.io/badge/AssemblyAI-2545F6?style=for-the-badge&logo=assemblyai&logoColor=white" alt="AssemblyAI">
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway">
 </p>
 
@@ -49,7 +50,7 @@
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
       </p>
-      <p>AI-powered call center QA automation for Egyptian real estate sales calls. Transcribes audio with AssemblyAI, then runs a 3-layer rebuttal detection system: exact match (2,000+ phrases) → semantic similarity → Groq Llama 3.3 70B fallback. 80% of calls resolve in Layer 1/2. Costs $2–3 per 1,000 calls.</p>
+      <p>AI-powered call center QA automation for Egyptian real estate sales calls. Transcribes audio with AssemblyAI, then runs a 3-layer rebuttal detection system: exact match (2,000+ phrases) → semantic similarity → Groq Llama 3.3 70B fallback. 80% of calls resolve in Layer 1/2.</p>
       <p>🏢 <strong>In production at RES-VA</strong></p>
       <p><strong>Stack:</strong> React · TypeScript · FastAPI · Python · PostgreSQL · Docker · AssemblyAI · Groq</p>
     </td>
@@ -63,29 +64,6 @@
       <p>A Windows app that audits agent connection stability to prevent call delays. It automates hardware and network tests, replacing manual remote checks like AnyDesk.</p>
       <p>🏢 <strong>In production at RES-VA</strong></p>
       <p><strong>Stack:</strong> Python · CustomTkinter · Flask</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Wedding Invitation</h3>
-      <p align="center">
-        <a href="https://github.com/MOHAMEDVOS/wedding-website">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
-        </a>
-      </p>
-      <p>A digital wedding invite in English and Arabic. It has an animated envelope, a photo gallery, a timeline, a countdown, and RSVP tracking.</p>
-      <p><strong>Stack:</strong> HTML · CSS · JavaScript</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">RES-VA Call Audit</h3>
-      <p align="center">
-        <a href="https://github.com/MOHAMEDVOS/Audit-ditector-main">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
-        </a>
-      </p>
-      <p>My first app. A simple Streamlit dashboard that analyzes CSV call logs to flag problem calls and measure campaign reachability.</p>
-      <p>🏢 <strong>Used by RES-VA</strong></p>
-      <p><strong>Stack:</strong> Python · Streamlit · Pandas</p>
     </td>
   </tr>
   <tr>
