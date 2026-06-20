@@ -49,9 +49,9 @@
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
       </p>
-      <p>AI-powered call center QA automation for Egyptian real estate sales calls. Transcribes audio with AssemblyAI, then runs a 3-layer rebuttal detection system: exact match (2,000+ phrases) → semantic similarity → Groq LLM fallback (20 strategies). 80% of calls resolve in Layer 1/2. Costs $2–3 per 1,000 calls.</p>
+      <p>AI-powered call center QA automation for Egyptian real estate sales calls. Transcribes audio with AssemblyAI, then runs a 3-layer rebuttal detection system: exact match (2,000+ phrases) → semantic similarity → Groq Llama 3.3 70B fallback. 80% of calls resolve in Layer 1/2. Costs $2–3 per 1,000 calls.</p>
       <p>🏢 <strong>In production at RES-VA</strong></p>
-      <p><strong>Stack:</strong> Python · FastAPI · Streamlit · Docker · PostgreSQL · AssemblyAI · Groq</p>
+      <p><strong>Stack:</strong> React · TypeScript · FastAPI · Python · PostgreSQL · Docker · AssemblyAI · Groq</p>
     </td>
     <td width="50%">
       <h3 align="center"><a href="https://vos-landing.vercel.app/">IT-Check (VOS Scanner)</a></h3>
