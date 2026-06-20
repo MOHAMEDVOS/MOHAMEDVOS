@@ -74,8 +74,8 @@
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
       </p>
-      <p>An AI-powered SMS audit platform. Automates conversation scraping and utilizes a 3-tier ML system to evaluate lead quality, detect compliance issues, and optimize communication standards.</p>
-      <p><strong>Stack:</strong> Python · Playwright · Groq · FAISS · scikit-learn · SQLite</p>
+      <p>An AI-powered SMS audit platform. Scrapes SmarterContact via pure HTTP + GraphQL, then runs a 3-tier ML pipeline (phrase match → semantic embeddings → LLM) to evaluate lead quality and detect compliance issues.</p>
+      <p><strong>Stack:</strong> Python · httpx · Groq · FAISS · scikit-learn · PostgreSQL · Railway</p>
     </td>
     <td width="50%">
       <!-- Empty space or placeholder for future project -->
