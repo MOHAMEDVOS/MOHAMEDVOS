@@ -13,7 +13,7 @@
 ### About Me
 
 - I build software with AI tools — cutting costs, saving hours, and solving problems that actually matter.
-- Created **[VOS Tool](https://vos-tool.up.railway.app/)**: An AI-powered call center platform. Transcribes and scores calls using a 3-layer system (2,000+ phrases → semantic matching → LLM). Provisions 200 agents across 7 dialers in under 1 minute. Automates agent scoring via ML — eliminating hours of manual work. In production at RES-VA.
+- Created **[VOS Tool](https://vos-tool.up.railway.app/)**: An AI-powered call center platform. Transcribes and scores calls using a 3-layer system (2,000+ phrases → semantic matching → LLM). Adds up to 200 agents across 7 dialers simultaneously in under a minute — down from 2 hours of manual work. Replaces hours of manual scoring with one click — AI samples and scores agent calls across all dialers, auto-updated in the team sheet. In production at RES-VA.
 - Built **[Texting Audit Automation](https://github.com/MOHAMEDVOS/TEXTING-AUDIT-AUTOMATION)**: An AI-powered SMS audit platform. Automates conversation scraping and utilizes a 3-tier ML system to evaluate lead quality, detect compliance issues, and optimize communication standards.
 - Built **[IT-Check (VOS Scanner)](https://vos-landing.vercel.app/)**: A Windows app that audits agent connections to prevent call drops and maintain quality. It replaces manual AnyDesk checks. RES-VA currently uses it.
 
