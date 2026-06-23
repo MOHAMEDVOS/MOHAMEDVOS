@@ -80,7 +80,16 @@
       <p><strong>Stack:</strong> Python · httpx · Groq · FAISS · scikit-learn · PostgreSQL · Railway</p>
     </td>
     <td width="50%">
-      <!-- Empty space or placeholder for future project -->
+      <h3 align="center">SpecCheck (HR Tool)</h3>
+      <p align="center">
+        <a href="https://github.com/MOHAMEDVOS/speccheck">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
+        </a>
+      </p>
+      <p>A browser-based hardware requirement checker built for agent onboarding. Paste specs or upload a screenshot — OCR (Tesseract.js) extracts the text and compares CPU and RAM against the minimum bar (Intel i5-6200U · 8 GB RAM). No backend needed.</p>
+      <p>🧠 <strong>Universal CPU parser:</strong> covers 20+ families — Intel Core i/Ultra/Xeon/N-series, AMD Ryzen/Threadripper/FX, Apple Silicon, Qualcomm Snapdragon, and more.</p>
+      <p>📸 <strong>Smart OCR:</strong> preprocesses images (auto-crop, contrast boost, multi-pass recognition) to reliably extract specs from Windows About screenshots.</p>
+      <p><strong>Stack:</strong> Vanilla JS · Tesseract.js · HTML · CSS</p>
     </td>
   </tr>
 </table>
