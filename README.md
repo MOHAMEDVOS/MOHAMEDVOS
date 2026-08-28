@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Mohamed Ibrahim</h1>
 
 <p align="center">
-  <strong>AI Enthusiast & Builder</strong> · Turning ideas into real products with AI
+  <strong>AI Enthusiast & Builder</strong> · I build AI tools that sales and call center teams run on every day
 </p>
 
 <p align="center">
@@ -12,10 +12,10 @@
 
 ### About Me
 
-- I build software with AI tools — cutting costs, saving hours, and solving problems that actually matter.
-- Created **[VOS Tool](https://vos-tool.up.railway.app/)**: An AI-powered call center platform. Transcribes and scores calls using a 3-layer system (2,000+ phrases → semantic matching → LLM). Adds up to 200 agents across 7 dialers simultaneously in under a minute — down from 2 hours of manual work. Replaces hours of manual scoring with one click — AI samples and scores agent calls across all dialers, auto-updated in the team sheet. In production at RES-VA.
-- Built **[Texting Audit Automation](https://github.com/MOHAMEDVOS/TEXTING-AUDIT-AUTOMATION)**: An AI-powered SMS audit platform. Automates conversation scraping and utilizes a 3-tier ML system to evaluate lead quality, detect compliance issues, and optimize communication standards.
-- Built **[IT-Check (VOS Scanner)](https://vos-landing.vercel.app/)**: A Windows app that audits agent connections to prevent call drops and maintain quality. It replaces manual AnyDesk checks. RES-VA currently uses it.
+- I build software with AI tools to cut costs and save hours of manual work.
+- Created **[VOS Tool](https://vos-tool.up.railway.app/)**, an AI call center platform. It transcribes and scores calls through a 3-layer system (2,000+ phrases, then semantic matching, then an LLM). It provisions up to 200 agents across 7 dialers in under a minute, which used to take 2 hours by hand. One click samples and scores agent calls across every dialer and writes the results into the team sheet. In production at RES-VA.
+- Also built **[Texting Audit Automation](https://github.com/MOHAMEDVOS/TEXTING-AUDIT-AUTOMATION)**, an SMS audit platform. It scrapes conversations and runs a 3-tier ML system to score lead quality and catch compliance issues.
+- And **[IT-Check (VOS Scanner)](https://vos-landing.vercel.app/)**, a Windows app that audits agent connections to prevent call drops. It replaced the manual AnyDesk checks, and RES-VA runs it now.
 
 - Based in Egypt.
 
@@ -50,10 +50,10 @@
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
       </p>
-      <p>AI-powered call center platform for Egyptian real estate. Transcribes calls with AssemblyAI and scores them via a 3-layer system (2,000+ phrases → semantic matching → Groq LLM). 80% of calls resolve in Layer 1/2.</p>
-      <p>⚡ <strong>Bulk user creation:</strong> provisions up to 200 agents across 7 ReadyMode dialers simultaneously in under 1 minute — a process that takes 1–2 hours manually.</p>
-      <p>📊 <strong>AI Scoring:</strong> one-click call sampling across all 7 dialers, ML-powered agent scoring, auto-appends results to the team's Google Sheet — eliminating manual call-by-call review.</p>
-      <p>🏢 <strong>In production at RES-VA</strong></p>
+      <p>AI call center platform for Egyptian real estate. Transcribes calls with AssemblyAI, then scores them through a 3-layer system: 2,000+ phrases, semantic matching, and a Groq LLM. 80% of calls resolve in the first two layers.</p>
+      <p>Bulk user creation provisions up to 200 agents across 7 ReadyMode dialers at once, in under a minute. The same job takes 1 to 2 hours by hand.</p>
+      <p>AI scoring samples calls across all 7 dialers in one click, scores the agents, and appends the results to the team's Google Sheet, so nobody reviews call by call anymore.</p>
+      <p>In production at RES-VA.</p>
       <p><strong>Stack:</strong> React · TypeScript · FastAPI · Python · PostgreSQL · Docker · AssemblyAI · Groq</p>
     </td>
     <td width="50%">
@@ -63,8 +63,8 @@
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
       </p>
-      <p>A Windows app that audits agent connection stability to prevent call delays. It automates hardware and network tests, replacing manual remote checks like AnyDesk.</p>
-      <p>🏢 <strong>In production at RES-VA</strong></p>
+      <p>A Windows app that audits agent connection stability to prevent call delays. It runs the hardware and network tests on its own, replacing manual remote checks over AnyDesk.</p>
+      <p>In production at RES-VA.</p>
       <p><strong>Stack:</strong> Python · CustomTkinter · Flask</p>
     </td>
   </tr>
@@ -76,7 +76,7 @@
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
       </p>
-      <p>An AI-powered SMS audit platform. Scrapes SmarterContact via pure HTTP + GraphQL, then runs a 3-tier ML pipeline (phrase match → semantic embeddings → LLM) to evaluate lead quality and detect compliance issues.</p>
+      <p>An SMS audit platform. It scrapes SmarterContact over plain HTTP and GraphQL, then runs a 3-tier ML pipeline (phrase match, semantic embeddings, LLM) to score lead quality and flag compliance issues.</p>
       <p><strong>Stack:</strong> Python · httpx · Groq · FAISS · scikit-learn · PostgreSQL · Railway</p>
     </td>
     <td width="50%">
@@ -86,9 +86,9 @@
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
       </p>
-      <p>A browser-based hardware requirement checker built for agent onboarding. Paste specs or upload a screenshot — OCR (Tesseract.js) extracts the text and compares CPU and RAM against the minimum bar (Intel i5-6200U · 8 GB RAM). No backend needed.</p>
-      <p>🧠 <strong>Universal CPU parser:</strong> covers 20+ families — Intel Core i/Ultra/Xeon/N-series, AMD Ryzen/Threadripper/FX, Apple Silicon, Qualcomm Snapdragon, and more.</p>
-      <p>📸 <strong>Smart OCR:</strong> preprocesses images (auto-crop, contrast boost, multi-pass recognition) to reliably extract specs from Windows About screenshots.</p>
+      <p>A browser-based hardware checker for agent onboarding. Paste specs or upload a screenshot, and Tesseract.js pulls out the text and compares CPU and RAM against the minimum bar (Intel i5-6200U, 8 GB RAM). No backend.</p>
+      <p>The CPU parser covers 20+ families, including Intel Core i, Ultra, Xeon and N-series, AMD Ryzen, Threadripper and FX, Apple Silicon, and Qualcomm Snapdragon.</p>
+      <p>Image preprocessing (auto-crop, contrast boost, multi-pass recognition) makes the OCR reliable on Windows About screenshots.</p>
       <p><strong>Stack:</strong> Vanilla JS · Tesseract.js · HTML · CSS</p>
     </td>
   </tr>
@@ -110,5 +110,5 @@
 ---
 
 <p align="center">
-  <em>"Mohamed ibrahim Abdo</em>
+  <em>Mohamed Ibrahim Abdo</em>
 </p>
