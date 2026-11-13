@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Mohamed Ibrahim</h1>
 
 <p align="center">
-  <strong>AI Enthusiast & Builder</strong> · I build AI tools that sales and call center teams run on every day
+  <strong>AI Enthusiast & Builder</strong> · I build tool with ai that sales and call center teams run on every day
 </p>
 
 <p align="center">
