@@ -1,51 +1,47 @@
-<h1 align="center">Mohamed Abdo</h1>
-
-<p align="center">
-  Software engineer in Cairo, Egypt<br>
-  Open to remote software engineering roles
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Mohamed Abdo, software engineer. Python, APIs and AI automation. Open to remote roles." width="100%">
+</picture>
 
 I build automation that replaces manual call and text QA, mostly in Python, FastAPI and React. I have worked at RESVA for five years, the last one as a software engineer, and the tools below run there every day.
 
-### Projects
+## Projects
 
-**[VOS](https://vos-tool.up.railway.app/)** is a call QA platform. It pulls recordings from ReadyMode dialers, transcribes them with AssemblyAI, and checks whether the agent tried to keep the lead after a "no". A library of 2,000+ phrases and a semantic match settle about 80% of calls, and only the unclear ones go to a Groq LLM. It replaced about 45 seconds of manual review per call, scores agents into the team's Google Sheet, and creates up to 200 agent accounts across the dialers in under a minute, a job that took 1 to 2 hours by hand.
-*Python, FastAPI, React, TypeScript, PostgreSQL, Docker, AssemblyAI, Groq*
+<table>
+  <tr>
+    <td width="50%"><a href="https://vos-tool.up.railway.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-vos-dark.svg"><img src="assets/card-vos-light.svg" alt="VOS call QA platform" width="100%"></picture></a></td>
+    <td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-texting-dark.svg"><img src="assets/card-texting-light.svg" alt="Texting Audit service" width="100%"></picture></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://vos-landing.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-itcheck-dark.svg"><img src="assets/card-itcheck-light.svg" alt="IT-Check Windows scanner" width="100%"></picture></a></td>
+    <td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-speccheck-dark.svg"><img src="assets/card-speccheck-light.svg" alt="SpecCheck OCR hardware checker" width="100%"></picture></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/MOHAMEDVOS/VOS-connect"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-vosconnect-dark.svg"><img src="assets/card-vosconnect-light.svg" alt="VOS Connect call and text tracking" width="100%"></picture></a></td>
+    <td width="50%"><a href="https://github.com/MOHAMEDVOS/Property-Lookup"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-lookup-dark.svg"><img src="assets/card-lookup-light.svg" alt="Property Lookup Chrome extension" width="100%"></picture></a></td>
+  </tr>
+</table>
 
-**Texting Audit Automation** reads SmarterContact conversations over REST and GraphQL with no browser, then flags compliance, attitude, professionalism and script mistakes with a local ML and rules pipeline. 20 parallel workers audit about 2,000 conversations in under 5 minutes, with no hosted AI calls and no per-conversation cost.
-*Python, HTTPX, FAISS, scikit-learn*
+The source for the first four is private because they run inside a company. VOS Connect and Property Lookup are open source.
 
-**[IT-Check](https://vos-landing.vercel.app/)** is a Windows app that tests an agent's PC, microphone and connection, reports to a Flask dashboard, and runs scheduled checks and updates. It replaced manual remote checks over AnyDesk.
-*Python, CustomTkinter, Flask*
+<details>
+<summary>What each one does</summary>
 
-**SpecCheck** reads a screenshot of a PC's specs with Tesseract.js OCR and compares the CPU against a database of about 2,800 benchmarked chips and the RAM against the onboarding minimum. It runs in the browser with no backend.
-*JavaScript, Tesseract.js*
+**VOS** pulls recordings from ReadyMode dialers, transcribes them with AssemblyAI, and checks whether the agent tried to keep the lead after a "no". A library of 2,000+ phrases and a semantic match settle about 80% of calls, and only the unclear ones go to a Groq LLM. It scores agents into the team's Google Sheet and creates up to 200 agent accounts across the dialers in under a minute, a job that took 1 to 2 hours by hand.
 
-The source for these four is private because they run inside a company.
+**Texting Audit Automation** reads SmarterContact conversations over REST and GraphQL with no browser, then flags compliance, attitude, professionalism and script mistakes with a local ML and rules pipeline. 20 parallel workers do the work, with no hosted AI calls and no per-conversation cost.
 
-### Open source
+**IT-Check** tests an agent's PC, microphone and connection, reports to a Flask dashboard, and runs scheduled checks and updates.
 
-**[VOS Connect](https://github.com/MOHAMEDVOS/VOS-connect)** tracks calls and texts for mail campaigns. It assigns tracking numbers, routes incoming leads to clients, and shows response and conversion rates per campaign. I built it as an in-house replacement for CallRail, which was unavailable in Egypt.
-*React, TypeScript, FastAPI, PostgreSQL, Twilio*
+**SpecCheck** reads a screenshot of a PC's specs with Tesseract.js OCR, compares the CPU against about 2,800 benchmarked chips and the RAM against the onboarding minimum, and runs in the browser with no backend.
 
-**[Property Lookup](https://github.com/MOHAMEDVOS/Property-Lookup)** is a Chrome extension. Give it an address and it shows the Zillow and Redfin price, beds, baths and links side by side.
-*JavaScript*
+**VOS Connect** assigns tracking numbers, routes incoming leads to clients, and shows response and conversion rates per campaign. **Property Lookup** shows the Zillow and Redfin price, beds, baths and links for an address.
 
-### Tech stack
+</details>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway">
-  <img src="https://img.shields.io/badge/AssemblyAI-2545F6?style=for-the-badge&logo=assemblyai&logoColor=white" alt="AssemblyAI">
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq">
-</p>
+## Stack
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MOHAMEDVOS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMEDVOS&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" alt="Stack: Python, TypeScript, JavaScript, SQL, FastAPI, Flask, HTTPX, PostgreSQL, Docker, React, Vite, Tailwind CSS, AssemblyAI, Groq, Twilio, Railway, Git" width="100%">
+</picture>

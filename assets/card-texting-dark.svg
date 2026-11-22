@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="178" viewBox="0 0 580 178" role="img" aria-label="Texting Audit: SMS audit service. 2,000 conversations audited in under 5 minutes.">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2dd4bf"/><stop offset="1" stop-color="#38bdf8"/></linearGradient></defs>
+<rect x="0.75" y="0.75" width="578.5" height="176.5" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<rect x="0.75" y="0.75" width="5" height="176.5" rx="2.5" fill="url(#g)"/>
+<g font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+ <text x="28" y="40" font-size="23" font-weight="700" fill="#e6edf3">Texting Audit</text>
+ <text x="28" y="63" font-size="15.5" fill="#8b949e">SMS audit service</text>
+ <text x="28" y="104" font-size="30" font-weight="800" fill="url(#g)">2,000</text>
+ <text x="149" y="103" font-size="15" fill="#8b949e">conversations audited in under 5 minutes</text>
+ <rect x="28" y="128" width="68" height="26" rx="13" fill="#21262d"/><text x="62.0" y="146" text-anchor="middle" font-size="13.5" fill="#c9d1d9">Python</text><rect x="104" y="128" width="60" height="26" rx="13" fill="#21262d"/><text x="134.0" y="146" text-anchor="middle" font-size="13.5" fill="#c9d1d9">HTTPX</text><rect x="172" y="128" width="60" height="26" rx="13" fill="#21262d"/><text x="202.0" y="146" text-anchor="middle" font-size="13.5" fill="#c9d1d9">FAISS</text><rect x="240" y="128" width="118" height="26" rx="13" fill="#21262d"/><text x="299.0" y="146" text-anchor="middle" font-size="13.5" fill="#c9d1d9">scikit-learn</text>
+ <text x="552" y="40" text-anchor="end" font-size="13" fill="#8b949e">Private · local ML, no hosted AI</text>
+</g>
+</svg>

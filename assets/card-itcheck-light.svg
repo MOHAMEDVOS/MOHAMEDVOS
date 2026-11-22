@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="178" viewBox="0 0 580 178" role="img" aria-label="IT-Check: Agent PC and network scanner. Windows app that replaced manual AnyDesk checks.">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#0f766e"/><stop offset="1" stop-color="#0369a1"/></linearGradient></defs>
+<rect x="0.75" y="0.75" width="578.5" height="176.5" rx="14" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="0.75" y="0.75" width="5" height="176.5" rx="2.5" fill="url(#g)"/>
+<g font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+ <text x="28" y="40" font-size="23" font-weight="700" fill="#1f2328">IT-Check</text>
+ <text x="28" y="63" font-size="15.5" fill="#59636e">Agent PC and network scanner</text>
+ <text x="28" y="104" font-size="30" font-weight="800" fill="url(#g)">Windows</text>
+ <text x="191" y="103" font-size="15" fill="#59636e">app that replaced manual AnyDesk checks</text>
+ <rect x="28" y="128" width="68" height="26" rx="13" fill="#e6ebf1"/><text x="62.0" y="146" text-anchor="middle" font-size="13.5" fill="#32383f">Python</text><rect x="104" y="128" width="127" height="26" rx="13" fill="#e6ebf1"/><text x="167.5" y="146" text-anchor="middle" font-size="13.5" fill="#32383f">CustomTkinter</text><rect x="239" y="128" width="60" height="26" rx="13" fill="#e6ebf1"/><text x="269.0" y="146" text-anchor="middle" font-size="13.5" fill="#32383f">Flask</text>
+ <text x="552" y="40" text-anchor="end" font-size="13" fill="#59636e">Private · in production at RESVA</text>
+</g>
+</svg>
