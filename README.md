@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Mohamed Abdo, software engineer. Python, APIs and AI automation. Open to remote roles." width="100%">
-</picture>
+<img src="assets/banner.png" alt="Mohamed Abdo, software engineer in Cairo, Egypt. Python, APIs and AI automation for call and text QA. 5 years at RESVA, 6 tools built. Open to remote roles." width="100%">
 
 I build automation that replaces manual call and text QA, mostly in Python, FastAPI and React. I have worked at RESVA for five years, the last one as a software engineer, and the tools below run there every day.
 
@@ -9,16 +6,16 @@ I build automation that replaces manual call and text QA, mostly in Python, Fast
 
 <table>
   <tr>
-    <td width="50%"><a href="https://vos-tool.up.railway.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-vos-dark.svg"><img src="assets/card-vos-light.svg" alt="VOS call QA platform" width="100%"></picture></a></td>
-    <td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-texting-dark.svg"><img src="assets/card-texting-light.svg" alt="Texting Audit service" width="100%"></picture></td>
+    <td width="50%"><a href="https://vos-tool.up.railway.app/"><img src="assets/card-vos.png" alt="VOS, call QA platform. About 45 seconds of manual review saved per call. Python, FastAPI, AssemblyAI, Groq. Private, in production." width="100%"></a></td>
+    <td width="50%"><img src="assets/card-texting.png" alt="Texting Audit, SMS audit service. 2,000 conversations audited in under 5 minutes. Python, HTTPX, FAISS, scikit-learn. Private." width="100%"></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://vos-landing.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-itcheck-dark.svg"><img src="assets/card-itcheck-light.svg" alt="IT-Check Windows scanner" width="100%"></picture></a></td>
-    <td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-speccheck-dark.svg"><img src="assets/card-speccheck-light.svg" alt="SpecCheck OCR hardware checker" width="100%"></picture></td>
+    <td width="50%"><a href="https://vos-landing.vercel.app/"><img src="assets/card-itcheck.png" alt="IT-Check, PC and network scanner. Replaces manual AnyDesk checks. Python, CustomTkinter, Flask. Private, in production." width="100%"></a></td>
+    <td width="50%"><img src="assets/card-speccheck.png" alt="SpecCheck, OCR hardware checker. 2,800 benchmarked CPUs in the database. JavaScript, Tesseract.js. Private." width="100%"></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/MOHAMEDVOS/VOS-connect"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-vosconnect-dark.svg"><img src="assets/card-vosconnect-light.svg" alt="VOS Connect call and text tracking" width="100%"></picture></a></td>
-    <td width="50%"><a href="https://github.com/MOHAMEDVOS/Property-Lookup"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-lookup-dark.svg"><img src="assets/card-lookup-light.svg" alt="Property Lookup Chrome extension" width="100%"></picture></a></td>
+    <td width="50%"><a href="https://github.com/MOHAMEDVOS/VOS-connect"><img src="assets/card-vosconnect.png" alt="VOS Connect, call tracking. An in-house CallRail alternative. React, TypeScript, FastAPI, PostgreSQL, Twilio. Open source." width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/MOHAMEDVOS/Property-Lookup"><img src="assets/card-lookup.png" alt="Property Lookup, Chrome extension. Zillow and Redfin side by side. JavaScript. Open source." width="100%"></a></td>
   </tr>
 </table>
 
@@ -41,7 +38,4 @@ The source for the first four is private because they run inside a company. VOS 
 
 ## Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img src="assets/stack-light.svg" alt="Stack: Python, TypeScript, JavaScript, SQL, FastAPI, Flask, HTTPX, PostgreSQL, Docker, React, Vite, Tailwind CSS, AssemblyAI, Groq, Twilio, Railway, Git" width="100%">
-</picture>
+<img src="assets/stack.png" alt="Stack. Languages: Python, TypeScript, JavaScript, SQL. Backend: FastAPI, Flask, HTTPX, PostgreSQL, Docker. Frontend: React, Vite, Tailwind CSS. Services: AssemblyAI, Groq, Twilio, Railway, Git." width="100%">
