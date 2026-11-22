@@ -13,9 +13,9 @@
 ### About Me
 
 - I build software with AI tools to cut costs and save hours of manual work.
-- Created **[VOS Tool](https://vos-tool.up.railway.app/)**, an AI call center platform. It transcribes and scores calls through a 3-layer system (2,000+ phrases, then semantic matching, then an LLM). It provisions up to 200 agents across 7 dialers in under a minute, which used to take 2 hours by hand. One click samples and scores agent calls across every dialer and writes the results into the team sheet. In production at RES-VA.
-- Also built **[Texting Audit Automation](https://github.com/MOHAMEDVOS/TEXTING-AUDIT-AUTOMATION)**, an SMS audit platform. It scrapes conversations and runs a 3-tier ML system to score lead quality and catch compliance issues.
-- And **[IT-Check (VOS Scanner)](https://vos-landing.vercel.app/)**, a Windows app that audits agent connections to prevent call drops. It replaced the manual AnyDesk checks, and RES-VA runs it now.
+- Created **[VOS Tool](https://vos-tool.up.railway.app/)**, an AI call center platform. It transcribes and scores calls through a 3-layer system (2,000+ phrases, then semantic matching, then an LLM). It provisions up to 200 agents across the dialers in under a minute, which used to take 2 hours by hand. One click samples and scores agent calls across every dialer and writes the results into the team sheet. In production at RESVA.
+- Also built **Texting Audit Automation**, an SMS audit service. It scrapes conversations over HTTP and GraphQL and flags agent mistakes with a local ML and rules pipeline, with no hosted AI calls.
+- And **[IT-Check (VOS Scanner)](https://vos-landing.vercel.app/)**, a Windows app that audits agent connections to prevent call drops. It replaced the manual AnyDesk checks, and RESVA runs it now.
 
 - Based in Egypt.
 
@@ -45,47 +45,27 @@
   <tr>
     <td width="50%">
       <h3 align="center"><a href="https://vos-tool.up.railway.app/">VOS Tool</a></h3>
-      <p align="center">
-        <a href="https://github.com/MOHAMEDVOS/vos-tool">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
-        </a>
-      </p>
       <p>AI call center platform for Egyptian real estate. Transcribes calls with AssemblyAI, then scores them through a 3-layer system: 2,000+ phrases, semantic matching, and a Groq LLM. 80% of calls resolve in the first two layers.</p>
-      <p>Bulk user creation provisions up to 200 agents across 7 ReadyMode dialers at once, in under a minute. The same job takes 1 to 2 hours by hand.</p>
-      <p>AI scoring samples calls across all 7 dialers in one click, scores the agents, and appends the results to the team's Google Sheet, so nobody reviews call by call anymore.</p>
-      <p>In production at RES-VA.</p>
+      <p>Bulk user creation provisions up to 200 agents across the ReadyMode dialers at once, in under a minute. The same job takes 1 to 2 hours by hand.</p>
+      <p>AI scoring samples calls across every dialer in one click, scores the agents, and appends the results to the team's Google Sheet, so nobody reviews call by call anymore.</p>
+      <p>In production at RESVA.</p>
       <p><strong>Stack:</strong> React · TypeScript · FastAPI · Python · PostgreSQL · Docker · AssemblyAI · Groq</p>
     </td>
     <td width="50%">
       <h3 align="center"><a href="https://vos-landing.vercel.app/">IT-Check (VOS Scanner)</a></h3>
-      <p align="center">
-        <a href="https://github.com/MOHAMEDVOS/IT-check">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
-        </a>
-      </p>
       <p>A Windows app that audits agent connection stability to prevent call delays. It runs the hardware and network tests on its own, replacing manual remote checks over AnyDesk.</p>
-      <p>In production at RES-VA.</p>
+      <p>In production at RESVA.</p>
       <p><strong>Stack:</strong> Python · CustomTkinter · Flask</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3 align="center">Texting Audit Automation</h3>
-      <p align="center">
-        <a href="https://github.com/MOHAMEDVOS/TEXTING-AUDIT-AUTOMATION">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
-        </a>
-      </p>
-      <p>An SMS audit platform. It scrapes SmarterContact over plain HTTP and GraphQL, then runs a 3-tier ML pipeline (phrase match, semantic embeddings, LLM) to score lead quality and flag compliance issues.</p>
-      <p><strong>Stack:</strong> Python · httpx · Groq · FAISS · scikit-learn · PostgreSQL · Railway</p>
+      <p>An SMS audit service. It scrapes SmarterContact over plain HTTP and GraphQL, then flags compliance, attitude, professionalism and script mistakes with a local ML and rules pipeline. No hosted AI calls, no per-conversation cost.</p>
+      <p><strong>Stack:</strong> Python · HTTPX · FAISS · scikit-learn</p>
     </td>
     <td width="50%">
       <h3 align="center">SpecCheck (HR Tool)</h3>
-      <p align="center">
-        <a href="https://github.com/MOHAMEDVOS/speccheck">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
-        </a>
-      </p>
       <p>A browser-based hardware checker for agent onboarding. Paste specs or upload a screenshot, and Tesseract.js pulls out the text and compares CPU and RAM against the minimum bar (Intel i5-6200U, 8 GB RAM). No backend.</p>
       <p>The CPU parser covers 20+ families, including Intel Core i, Ultra, Xeon and N-series, AMD Ryzen, Threadripper and FX, Apple Silicon, and Qualcomm Snapdragon.</p>
       <p>Image preprocessing (auto-crop, contrast boost, multi-pass recognition) makes the OCR reliable on Windows About screenshots.</p>
@@ -93,6 +73,13 @@
     </td>
   </tr>
 </table>
+
+<p align="center"><em>The source for these four is private because they run inside a company.</em></p>
+
+### Open Source
+
+- **[VOS Connect](https://github.com/MOHAMEDVOS/VOS-connect)**: call and text tracking platform with tracking numbers, lead routing and campaign conversion rates. React, TypeScript, FastAPI, PostgreSQL, Twilio.
+- **[Property Lookup](https://github.com/MOHAMEDVOS/Property-Lookup)**: Chrome extension that shows Zillow and Redfin price, beds, baths and links for an address.
 
 ---
 
