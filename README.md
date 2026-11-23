@@ -1,6 +1,6 @@
 # Mohamed Abdo
 
-I build automation that replaces manual call and text QA, mostly in Python, FastAPI and React. I have worked at RESVA for five years, the last one as a software engineer, and the tools below run there every day. I'm based in Cairo, Egypt, and open to remote software engineering roles.
+I build automation that replaces repetitive manual work, mostly in Python, FastAPI and React: call and text audits, dialer setup, HR checks, reports and PC checks. I have worked at RESVA for five years, the last one as a software engineer, and the tools below run there every day. I'm based in Cairo, Egypt, and open to remote software engineering roles.
 
 ## Projects
 
