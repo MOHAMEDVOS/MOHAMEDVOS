@@ -1,6 +1,6 @@
-<img src="assets/banner.png" alt="Mohamed Abdo, software engineer in Cairo, Egypt. Python, APIs and AI automation for call and text QA. 5 years at RESVA, 6 tools built. Open to remote roles." width="100%">
+# Mohamed Abdo
 
-I build automation that replaces manual call and text QA, mostly in Python, FastAPI and React. I have worked at RESVA for five years, the last one as a software engineer, and the tools below run there every day.
+I build automation that replaces manual call and text QA, mostly in Python, FastAPI and React. I have worked at RESVA for five years, the last one as a software engineer, and the tools below run there every day. I'm based in Cairo, Egypt, and open to remote software engineering roles.
 
 ## Projects
 
