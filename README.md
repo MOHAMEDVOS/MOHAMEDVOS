@@ -11,11 +11,11 @@ I build automation that replaces repetitive manual work, mostly in Python, FastA
   </tr>
   <tr>
     <td width="50%"><a href="https://vos-landing.vercel.app/"><img src="assets/card-itcheck.png" alt="IT-Check, PC and network scanner. Replaces manual AnyDesk checks. Python, CustomTkinter, Flask. Private, in production." width="100%"></a></td>
-    <td width="50%"><img src="assets/card-speccheck.png" alt="SpecCheck, OCR hardware checker. 2,800 benchmarked CPUs in the database. JavaScript, Tesseract.js. Private." width="100%"></td>
+    <td width="50%"><img src="assets/card-speccheck.png" alt="SpecCheck, OCR hardware checker. 2,800 benchmarked CPUs in the database. JavaScript, Tesseract.js. Private in production." width="100%"></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/MOHAMEDVOS/VOS-connect"><img src="assets/card-vosconnect.png" alt="VOS Connect, call tracking. An in-house CallRail alternative. React, TypeScript, FastAPI, PostgreSQL, Twilio. Open source." width="100%"></a></td>
-    <td width="50%"><a href="https://github.com/MOHAMEDVOS/Property-Lookup"><img src="assets/card-lookup.png" alt="Property Lookup, Chrome extension. Zillow and Redfin side by side. JavaScript. Open source." width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/MOHAMEDVOS/VOS-connect"><img src="assets/card-vosconnect.png" alt="VOS Connect, call tracking. An in-house CallRail alternative. React, TypeScript, FastAPI, PostgreSQL, Twilio. Open source. in production " width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/MOHAMEDVOS/Property-Lookup"><img src="assets/card-lookup.png" alt="Property Lookup, Chrome extension. Zillow and Redfin side by side. JavaScript. Open source in production." width="100%"></a></td>
   </tr>
 </table>
 
